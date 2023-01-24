@@ -2,6 +2,7 @@ import React from 'react';
 import "./about.css";
 import AboutImg from "../../../assets/mar.jpg";
 import Info from "./Info";
+import CV from "../../../assets/CVPDF.pdf";
 
 
 
@@ -22,7 +23,7 @@ const About = () => {
           <p className='about__description'>
           I am a guy willing to turn on, responsible, outgoing with a speed when it comes to learning and I work very well in a team
           </p>
-          <a download="" className="button butto--flex">Download CV
+          <a download="" href={CV} className="button butto--flex">Download CV
           <svg
                 className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
