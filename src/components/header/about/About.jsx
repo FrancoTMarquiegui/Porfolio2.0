@@ -2,7 +2,7 @@ import React from 'react';
 import "./about.css";
 import AboutImg from "../../../assets/mar.jpg";
 import Info from "./Info";
-import CV from "../../../assets/CVPDF.pdf";
+import CV from "../../../assets/Blanco y Negro Minimalista Foto Universidad Currículum (2).pdf";
 
 
 

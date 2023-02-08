@@ -33,7 +33,7 @@ const Qualification = () => {
                 <span className="qualification__subtitle">Academlo</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt">
-                  </i> 30/08/2022 - Present
+                  </i> 30/08/2022 - 12/02/2023
                 </div>
 
                 
@@ -53,7 +53,7 @@ const Qualification = () => {
                 <span className="qualification__subtitle">Academlo</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt">
-                  </i> 30/08/2022 - Present
+                  </i> 30/08/2022 - 12/02/2023
                 </div>
 
               </div>
@@ -71,7 +71,7 @@ const Qualification = () => {
                 <span className="qualification__subtitle">Academlo</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt">
-                  </i> 30/08/2022 - Present
+                  </i> 30/08/2022 - 12/02/2023
                 </div>
 
               </div>
